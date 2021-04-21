@@ -1,2 +1,2 @@
-# ArmyBuilder
-App para jugar a warhammer y otros juegos
+# ListBuilder
+App para crear listas de warhammer y otros juegos
